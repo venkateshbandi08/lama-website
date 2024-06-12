@@ -6,38 +6,27 @@
 
 ## Table of Contents
 
-- [Introduction](This is a project demo that helps with managing the content, adding up files, creating projects, scheduling etc to a podcaster.)
-- [Features]()
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- Introduction - This is a project demo that helps with managing the content, adding up files, creating projects, scheduling etc to a podcaster.
+- Features - Creating Projects, Adding files to project, Editing Description of a file, Settings page, Listing projects, Authentication, Editing username etc.
+- Tech Stack - MERN stack (MongoDB for Database, Express.js and Node.js for Backend, React.js for Frontend)
+- Installation - npm install, include .env file values (Port number, mongo connection url). npm start to run frontend, node index.js to run backend
 
 ## Introduction
 
-Welcome to [Project Name]! This project is designed to [briefly describe the purpose of your project]. It aims to [describe the main goal or functionality].
+Welcome to Podcaster's Page ! This project is designed to Optimise and managing content for a podcaster in many ways!
 
 ## Features
 
-- Feature 1: Brief description of feature 1.
-- Feature 2: Brief description of feature 2.
-- Feature 3: Brief description of feature 3.
-- Additional features...
+- Creating Projects: Creating as many number of projects by giving the project details.
+- Adding files: Adding number of files to a particular project.
+- Editing files : Editing description of a file.
+- Editing username: Editing the username.
+- Listing projects: all the created projects will be listed on the page.
+- Listing files : all the created files will the displayed on the page in tabular format, with the created date and time, status, edit and delete functionalities
+- Logout functionlaity
 
-## Tech Stack
 
-- **Frontend**: [List of frontend technologies, e.g., React, Styled-Components]
-- **Backend**: [List of backend technologies, e.g., Node.js, Express]
-- **Database**: [Database technology, e.g., MongoDB]
-- **Other**: [Other technologies, e.g., WebSockets, JWT for authentication]
 
 ## Installation
 
-Follow these steps to set up the project locally:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
+npm instalL
